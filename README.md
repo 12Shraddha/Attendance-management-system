@@ -7,7 +7,7 @@ Technology used :
 -Python
 -tkinter GUI interface
 -keras and tensorflow
-Here I am working on Face recognition based Attendance Management System by using OpenCV(Python). One can mark thier attendance by simply facing the camera. 
+Here, I worked on Face recognition based Attendance Management System by using OpenCV(Python). One can mark their attendance with the use of camera. 
 
 How it works :
 
