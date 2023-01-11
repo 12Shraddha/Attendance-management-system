@@ -1,8 +1,5 @@
 
 """
-Created on 17,APRIL 2020
-Yashi and Siddharth
-subject:minor project 
 =========  ===========   =============
 """
 
